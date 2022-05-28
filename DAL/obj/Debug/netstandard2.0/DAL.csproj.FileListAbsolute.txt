@@ -1,0 +1,13 @@
+C:\Users\ememendozar\Desktop\AI_test\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\ememendozar\Desktop\AI_test\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\ememendozar\Desktop\AI_test\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\ememendozar\Desktop\AI_test\DAL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\ememendozar\Desktop\AI_test\DAL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\ememendozar\Desktop\AI_test\DAL\obj\Debug\netstandard2.0\DAL.pdb

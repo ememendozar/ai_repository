@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8npd70AobsSxHIhOsoY/V17yViJE3frozQrYIRsubNyGNiS+v8ooaIl/D/1y0SIRZaMpE/Vdi/2ze7vM8wuqAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ememendozar\\Desktop\\AI_test\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ememendozar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ememendozar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

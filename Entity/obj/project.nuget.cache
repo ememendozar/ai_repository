@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/Np+Fn9Ys6r3w8iU3xw56HqEsOeeD1qe10j3zh8pJzziL4UBF2ToSn6QnVMhhRAXABSDhV0f2yAk3VpG6yKOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ememendozar\\Desktop\\AI_test\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ememendozar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ememendozar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\ememendozar\Desktop\AI_test\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\ememendozar\Desktop\AI_test\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\ememendozar\Desktop\AI_test\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.csproj.AssemblyReference.cache
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\ememendozar\Desktop\AI_test\Entity\obj\Debug\netstandard2.0\Entity.pdb
